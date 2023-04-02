@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 8px 0;
+    margin-bottom: 26px;
+    border-bottom: 1px solid black;
+}
+
+.nav {
+    display: flex;
+}
+
+.link {
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #4b1d7f;
+    font-weight: 500;
+}
+
+.link:hover {
+    color: white;
+    background-color: rgb(255, 187, 0);
+}
