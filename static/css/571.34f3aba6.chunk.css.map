@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/571.34f3aba6.chunk.css","mappings":"AAAA,wBACI,cAAe,CACf,eACJ,CAEA,mBACI,eACJ","sources":["components/Reviews/reviews.module.css"],"sourcesContent":[".content {\n    font-size: 15px;\n    font-weight: 400;\n}\n\n.li {\n    list-style: none;\n}"],"names":[],"sourceRoot":""}
